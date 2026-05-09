@@ -1,0 +1,50 @@
+/*
+Theme Name:   Astra Child
+Theme URI:    http://localhost/restaurant
+Description:  Child theme for Astra
+Author:       Your Name
+Author URI:   http://localhost/restaurant
+Template:     astra
+Version:      1.0.0
+Text Domain:  astra-child
+*/
+
+/* ================================
+   GOLDEN FORK — CHILD THEME STYLES
+   ================================ */
+
+/* Page hero section spacing */
+.entry-content {
+  padding: 20px 0;
+}
+
+/* Add breathing room to sections */
+.wp-block-group {
+  margin-bottom: 3rem;
+}
+
+/* Consistent section padding */
+.wp-block-cover {
+  min-height: 500px !important;
+}
+
+/* Menu item headings */
+.entry-content h2 {
+  color: #1a1a1a;
+  margin-top: 3rem;
+}
+
+/* First H2 needs no top margin */
+.entry-content h2:first-child {
+  margin-top: 0;
+}
+
+/* Image border radius */
+.wp-block-image img {
+  border-radius: 8px;
+}
+
+/* Card style for column blocks */
+.wp-block-column {
+  padding: 1.5rem;
+}
