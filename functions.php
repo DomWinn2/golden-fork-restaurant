@@ -1,7 +1,7 @@
 <?php
 // Enqueue child theme styles
 // Astra parent styles are loaded automatically
-// We only need to enqueue the child stylesheet
+// Only need to enqueue the child stylesheet
 function astra_child_enqueue_styles() {
     wp_enqueue_style(
         'astra-child-style',
