@@ -58,3 +58,11 @@ Created structured content architecutre using:
 - Web performance and SEO best practices
 - Professional Debugging workflows
 
+## Screenshots
+
+![Home Page](screenshots/Golden-Fork-Desktop/home-desktop1.png)
+![Menu Page](screenshots/menu.png)
+![Mobile View](screenshots/Golden-Fork-Mobile/home-mobile1.png)
+
+
+
