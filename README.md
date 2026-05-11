@@ -63,6 +63,8 @@ Created structured content architecutre using:
 ![Home Page](screenshots/Golden-Fork-Desktop/home-desktop1.png)
 ![Menu Page](screenshots/menu.png)
 ![Mobile View](screenshots/Golden-Fork-Mobile/home-mobile1.png)
+![Dashboard](screenshots/wp-dashboard.png)
+
 
 
 
